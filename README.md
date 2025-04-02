@@ -40,6 +40,7 @@ These logs are stored in **`/var/log/rtos_security.log`** for future analysis.
 ```bash
 git clone https://github.com/rai-1819/RTOS-event-logger.git
 cd RTOS-event-logger
+```
 
 
 2️⃣ Install Dependencies
@@ -47,10 +48,12 @@ cd RTOS-event-logger
 sudo apt update
 sudo apt install python3 python3-pip
 pip install psutil
+```
 
 3️⃣ Run the Logger
 ```bash
 sudo python3 rtos_security_logger.py
+```
 
 🔥 Stay Safe, Stay Secure!
 Contributions are welcome! Fork the repo and submit a PR! 💪

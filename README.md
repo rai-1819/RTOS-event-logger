@@ -15,13 +15,13 @@ These logs are stored in **`/var/log/rtos_security.log`** for future analysis.
 
 ## 📂 **Project Structure**  
 
-
+```bash
  ├── 📄 rtos_security_logger.py    # Main security logger script
  ├── 📄 README.md                  # Project documentation
  ├── 📄 rtos_logger.service        # Script to run logger in background
  ├── 📂 logs.txt                   # Folder for storing logs
  ├── 📂 documentaion               # Documentation (flowcharts, report, etc.)
-
+```
 
 ---
 

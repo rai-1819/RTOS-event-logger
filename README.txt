@@ -6,11 +6,6 @@ This project is a real-time monitoring tool designed to track OS-level security 
 
 These logs are stored in /var/log/rtos_security.log for future analysis.
 
-
-
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/4296111a-4fda-48c5-90dc-931fb75f8a61)
-
-
  Project Structure
  ├── 📄 rtos_security_logger.py    # Main security logger script
  ├── 📄 README.md                  # Project documentation

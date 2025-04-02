@@ -1,0 +1,12 @@
+//rtos_logger.service
+[Unit]
+Description=RTOS Security Logger
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /root/rtos_security_logger.py
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target

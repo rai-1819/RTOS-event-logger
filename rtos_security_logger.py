@@ -8,7 +8,7 @@ from datetime import datetime
 LOG_FILE = "/var/log/rtos_security.log"
 logging.basicConfig(filename=LOG_FILE, level=logging.INFO, format="%(asctime)s - %(message)s")
 
-# Function to Monitor Failed Login Attempts (Linux Only)
+# Function to Monitor Failed Login Attempts
 def monitor_failed_logins():
     auth_log = "/var/log/auth.log"
     if os.path.exists(auth_log):

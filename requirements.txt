@@ -1,0 +1,9 @@
+# Required Python libraries for RTOS Security Event Logger
+
+psutil      # Used for system monitoring (CPU, memory, processes, network stats)
+logging     # Built-in Python logging module for structured log management
+datetime    # Standard module for handling timestamps in logs
+socket      # Used to get system hostname and network-related details
+
+#you can install dependencies by running:
+#pip install -r requirements.txt

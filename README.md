@@ -19,7 +19,7 @@ These logs are stored in **`/var/log/rtos_security.log`** for future analysis.
  ├── 📄 rtos_security_logger.py    # Main security logger script
  ├── 📄 README.md                  # Project documentation
  ├── 📄 rtos_logger.service        # Script to run logger in background
- ├── 📂 logs.txt                   # Folder for storing logs
+ ├── 📄 logs.txt                   # Folder for storing logs
  ├── 📂 documentaion               # Documentation (flowcharts, report, etc.)
 ```
 
@@ -56,10 +56,10 @@ sudo python3 rtos_security_logger.py
 ```
 
 🔥 Stay Safe, Stay Secure!
-Contributions are welcome! Fork the repo and submit a PR! 💪
+Contributions are welcome! Fork the repo and submit a PR! 💪<br>
 🚀 Repo Link:https://github.com/rai-1819/RTOS-event-logger
 
-📩 Contact
+📩 Contact<br>
 📧 Email: rai1819.dox.com
 🔗 GitHub: rai-1819
 

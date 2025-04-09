@@ -55,6 +55,11 @@ pip install psutil
 sudo python3 rtos_security_logger.py
 ```
 
+4️⃣ Show the Logs
+```bash
+cat /var/log/rtos_security.log
+```
+
 🔥 Stay Safe, Stay Secure!
 Contributions are welcome! Fork the repo and submit a PR! 💪<br>
 🚀 Repo Link:https://github.com/rai-1819/RTOS-event-logger
